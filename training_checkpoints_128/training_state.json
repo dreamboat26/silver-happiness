@@ -1,0 +1,9 @@
+{
+  "step": 10000,
+  "epoch": 1665,
+  "checkpoint_path": "./training_checkpoints_128/ckpt-14",
+  "metrics": {
+    "gen_total_loss": 12.85387897491455,
+    "disc_loss": 1.0
+  }
+}
