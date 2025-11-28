@@ -1,0 +1,2 @@
+abs_max,abs_min,abs_mean,abs_std,abs_skew,mean_slope,deriv_max,deriv_min,num_peaks,peak_positions,green_band_center_lit,green_band_fwhm_lit,green_band_area,green_band_center_fit,green_band_fwhm_fit,green_band_amp_fit,green_band_model
+0.8545479882436398,0.0042568542568542,0.15122896025069948,0.1926145728426483,1.5746389683202429,-0.0008360871000258983,0.010374894871876567,-0.033477212481236154,1,[551.8890554722639],526,20,23.2378980170244,526,20,0,none
